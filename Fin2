@@ -1,0 +1,33 @@
+{
+  "title": "Fumetsu no anata e",
+  "description": ".",
+  "artist": "Ooima Yoshitoki",
+  "author": "Ooima Yoshitoki",
+  "cover": "https://i.imgur.com/vr0aME0.jpg",
+  "chapters": {
+    "139": {
+      "title": "Nakanaori",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/ngNqaun/"
+      },
+      "last_updated": "1616898817"
+    },
+    "140": {
+      "title": "Hito no Furi",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/Vx7IVk5/"
+      },
+      "last_updated": "1617673059"
+    },
+    "141": {
+      "title": "Karera no Ie",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/3NipL8C/"
+      },
+      "last_updated": "1619317172"
+    }
+  }
+}
