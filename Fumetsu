@@ -1,9 +1,9 @@
 {
-  "title": "<manga title>",
+  "title": "<Fumetsu no anata e>",
   "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "artist": "<Oima Yoshitoki>",
+  "author": "<Oima Yoshitoki>",
+  "cover": "<https://i.imgur.com/B7X4m7R.png>",
   "chapters": {
     "<chapter number>": {
       "title": "<chapter name>",
