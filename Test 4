@@ -1,0 +1,33 @@
+{
+  "title": "Для тебя, бессмертный",
+  "description": "Отправленное на землю бессмертное существо знакомится с мальчиком, одиноко живущем в Тундре. Существо может принимать форму умерших , но только если "импульс" сильнее чем предыдущий. С какими впечатлениями и встречами столкнётся существо, живущее вечно? ",
+  "artist": "Oomia Yoshitoki",
+  "author": "Oomia Yoshitoki",
+  "cover": "https://i.imgur.com/vr0aME0.jpg",
+  "chapters": {
+    "139": {
+      "title": "Примирение",
+      "volume": "16",
+      "groups": {
+        "Daphie's": "/proxy/api/imgur/chapter/ngNqaun/"
+      },
+      "last_updated": "1616898817"
+    },
+    "140": {
+      "title": "Притворяться человеком",
+      "volume": "16",
+      "groups": {
+        "Daphie's": "/proxy/api/imgur/chapter/Vx7IVk5/"
+      },
+      "last_updated": "1617673059"
+    },
+    "141": {
+      "title": "Их дом",
+      "volume": "16",
+      "groups": {
+        "Daphie's": "/proxy/api/imgur/chapter/3NipL8C/"
+      },
+      "last_updated": "1619317172"
+    }
+  }
+}
