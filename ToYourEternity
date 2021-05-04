@@ -1,0 +1,81 @@
+{
+  "title": "Fumetsu no anata e",
+  "description": "",
+  "artist": "OOIMA Yoshitoki",
+  "author": "OOIMA Yoshitoki",
+  "cover": "https://collabo-cafe.com/wp-content/uploads/4f402a8d246f13412f9b6f28bb149f69.jpg",
+  "chapters": {
+    "139": {
+      "title": "Nakanaori",
+      "volume": "15",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/ngNqaun/"
+      },
+      "last_updated": "1620078228"
+    },
+    "140": {
+      "title": "Hito no Furi",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/Vx7IVk5/"
+      },
+      "last_updated": "1616956200"
+    },
+    "141": {
+      "title": "Karera no Ie",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/Vx7IVk5/"
+      },
+      "last_updated": "1616956200"
+    },
+    "6": {
+      "title": "Damn it, Mom!!",
+      "volume": "1",
+      "groups": {
+        "Potatofoodscans | Lvl. 1 Scans": "/proxy/api/imgur/chapter/vnzShgH/"
+      },
+      "last_updated": "1616956200"
+    },
+    "5": {
+      "title": "It's Amazing!",
+      "volume": "1",
+      "groups": {
+        "Potatofoodscans | Lvl. 1 Scans": "/proxy/api/imgur/chapter/riS14Yv/"
+      },
+      "last_updated": "1616956200"
+    },
+    "4": {
+      "title": "Noticed Anything?",
+      "volume": "1",
+      "groups": {
+        "Potatofoodscans | Lvl. 1 Scans": "/proxy/api/imgur/chapter/GDs8jOW/"
+      },
+      "last_updated": "1616956200"
+    },
+    "3": {
+      "title": "The Cross-Cultural Exchange at the Arcade",
+      "volume": "1",
+      "groups": {
+        "Potatofoodscans": "/proxy/api/imgur/chapter/crnwl6b/"
+      },
+      "last_updated": "1616956200"
+    },
+    "2": {
+      "title": "Be my Valentine!",
+      "volume": "1",
+      "groups": {
+        "Potatofoodscans": "/proxy/api/imgur/chapter/OB4zC5w/"
+      },
+      "last_updated": "1616956200"
+    },
+    "1": {
+      "title": "The Girl at the Arcade",
+      "volume": "1",
+      "groups": {
+        "Potatofoodscans": "/proxy/api/imgur/chapter/IKPwt8S/"
+      },
+      "last_updated": "1616956200"
+    }
+  }
+}
