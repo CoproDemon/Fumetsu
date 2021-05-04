@@ -1,15 +1,15 @@
 {
-  "title": "<Fumetsu no anata e>",
-  "description": "<An immortal being was sent to the surface of the earth and met a boy living alone in the middle of tundra. The being can take the shape of dying things, but only if the "impetus" is stronger than the previous one. What sort of experiences and meetings will the being encounter while living forever? >",
-  "artist": "<Oima Yoshitoki>",
-  "author": "<Oima Yoshitoki>",
-  "cover": "<https://i.imgur.com/tiFuJRM.png>",
+  "title": "<manga title>",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
   "chapters": {
     "<chapter number>": {
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/ngNqaun/"
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
