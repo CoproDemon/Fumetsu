@@ -60,6 +60,22 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/v0QDIU0/"
       },
       "last_updated": "1619317172"
+    },
+    "145": {
+      "title": "Sewayaki",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/6zRxbiz/"
+      },
+      "last_updated": "1619317172"
+    }    },
+    "146": {
+      "title": "Ichiban",
+      "volume": "16",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/Da3Y7HX/"
+      },
+      "last_updated": "1619317172"
     }
   }
 }
