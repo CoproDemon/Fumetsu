@@ -108,6 +108,22 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/0zUGS6g/"
       },
       "last_updated": "1619317172"
+    },
+    "150": {
+      "title": "Hitoridachi",
+      "volume": "17",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/wF4tSSG/"
+      },
+      "last_updated": "1619317172"
+    },
+    "151": {
+      "title": "Tsunagu Mono",
+      "volume": "17",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/TL7kvAa/"
+      },
+      "last_updated": "1619317172"
     }
   }
 }
