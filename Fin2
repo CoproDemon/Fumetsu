@@ -143,9 +143,17 @@
     },
     "154": {
       "title": "Tsudou Yumiya",
-      "volume": "17",
+      "volume": "18",
       "groups": {
         "Pixel Horror": "/proxy/api/imgur/chapter/hmUWyhg/"
+      },
+      "last_updated": "1619317172"
+    },
+    "155": {
+      "title": "Shinjiru Kokoro",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/WW9AJ4H/"
       },
       "last_updated": "1619317172"
     }
