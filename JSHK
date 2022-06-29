@@ -44,6 +44,14 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/GuZqwP7/"
       },
       "last_updated": "1617673059"
+    },
+    "5": {
+      "title": "Том 5",
+      "volume": "5",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/kv46Jlz/"
+      },
+      "last_updated": "1617673059"
     }
   }
 }
