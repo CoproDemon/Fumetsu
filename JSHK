@@ -1,0 +1,17 @@
+{
+  "title": "Jibaku Shounen Hanako-kun",
+  "description": ".",
+  "artist": "Aida Iro",
+  "author": "Aida Iro",
+  "cover": "https://imgur.com/a/suj17ho",
+  "chapters": {
+    "00": {
+      "title": "Pilot",
+      "volume": "1",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/61nfs5k/"
+      },
+      "last_updated": "1616898817"
+    }
+  }
+}
