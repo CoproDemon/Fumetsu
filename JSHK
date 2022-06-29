@@ -12,6 +12,14 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/61nfs5k/"
       },
       "last_updated": "1616898817"
+    },
+    "1": {
+      "title": "Том 1",
+      "volume": "1",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/no0AYQm/"
+      },
+      "last_updated": "1617673059"
     }
   }
 }
