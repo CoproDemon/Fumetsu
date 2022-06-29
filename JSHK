@@ -28,6 +28,14 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/VWcdc34/"
       },
       "last_updated": "1617673059"
+    },
+    "3": {
+      "title": "Том 3",
+      "volume": "3",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/c8OVNT8/"
+      },
+      "last_updated": "1617673059"
     }
   }
 }
