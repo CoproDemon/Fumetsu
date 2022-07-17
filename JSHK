@@ -9,19 +9,19 @@
       "title": "Пилот",
       "volume": "1",
       "groups": {
-        "Pixel Horror": "/proxy/api/imgur/chapter/61nfs5k/"
+        "Pixel Horror": "/proxy/api/imgur/chapter/LcdWeQ1/"
       },
       "last_updated": "1616898817"
     },
-    "1": {
-      "title": "Том 1",
+    "01": {
+      "title": "Туалетная Ханако-сан",
       "volume": "1",
       "groups": {
         "Pixel Horror": "/proxy/api/imgur/chapter/no0AYQm/"
       },
       "last_updated": "1617673059"
     },
-    "2": {
+    "02": {
       "title": "Том 2",
       "volume": "2",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1617673059"
     },
-    "3": {
+    "03": {
       "title": "Том 3",
       "volume": "3",
       "groups": {
@@ -37,7 +37,7 @@
       },
       "last_updated": "1617673059"
     },
-    "4": {
+    "04": {
       "title": "Том 4",
       "volume": "4",
       "groups": {
@@ -45,7 +45,7 @@
       },
       "last_updated": "1617673059"
     },
-    "5": {
+    "05": {
       "title": "Том 5",
       "volume": "5",
       "groups": {
