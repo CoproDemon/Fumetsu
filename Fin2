@@ -180,6 +180,30 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/OtiTM7L/"
       },
       "last_updated": "1619317172"
+    },
+    "158": {
+      "title": "Дом надежды",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/IvmxCu8/"
+      },
+      "last_updated": "1619317172"
+    },
+    "159": {
+      "title": "Доказательство мира",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/OZVDJGb/"
+      },
+      "last_updated": "1619317172"
+    },
+    "160": {
+      "title": "Сосуществование",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/31ZaloO/"
+      },
+      "last_updated": "1619317172"
     }
   }
 }
