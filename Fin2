@@ -204,6 +204,22 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/XwqgAhQ/"
       },
       "last_updated": "1619317172"
+    },
+    "161": {
+      "title": "Независимость",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/ZIeiK5Q/"
+      },
+      "last_updated": "1619317172"
+    },
+    "162": {
+      "title": "Прямо здесь, вот так",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/Y1POCeX/"
+      },
+      "last_updated": "1619317172"
     }
   }
 }
