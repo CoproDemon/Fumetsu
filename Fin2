@@ -252,6 +252,22 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/DlgwUhy/"
       },
       "last_updated": "1619317172"
+    },
+    "166.2": {
+      "title": "Эпоха желаний (2)",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/WXXi1jB/"
+      },
+      "last_updated": "1619317172"
+    },
+    "167": {
+      "title": "Путь к мечтам",
+      "volume": "18",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/8QlrwJj/"
+      },
+      "last_updated": "1619317172"
     }
   }
 }
