@@ -372,6 +372,30 @@
         "Pixel Horror": "/proxy/api/imgur/chapter/d5z5rcr/"
       },
       "last_updated": "1619317172"
+      },
+    "181": {
+      "title": "Взаимный обман",
+      "volume": "19",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/wPpXyfE/"
+      },
+      "last_updated": "1619317172"
+      },
+    "182": {
+      "title": "Операция "Краб"",
+      "volume": "19",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/d5z5rcr/"
+      },
+      "last_updated": "1619317172"
+      },
+    "183": {
+      "title": "Антон Дей",
+      "volume": "19",
+      "groups": {
+        "Pixel Horror": "/proxy/api/imgur/chapter/hW0vyTe/"
+      },
+      "last_updated": "1619317172"
     }
   }
 }
